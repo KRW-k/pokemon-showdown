@@ -3347,6 +3347,16 @@ export const Formats: FormatList = [
 		ruleset: ['Standard'],
 	},
 	{
+		name: "[Gen 2] New Meta",
+		threads: [
+			`&bullet; <a href="https://www.smogon.com/forums/posts/8286282/">GSC Ubers</a>`,
+		],
+
+		mod: 'gen2',
+		searchShow: false,
+		ruleset: ['[Gen 2] OU']
+	},
+	{
 		name: "[Gen 2] UU",
 		threads: [`&bullet; <a href="https://www.smogon.com/forums/threads/3576710/">GSC UU</a>`],
 
